@@ -16,7 +16,8 @@
 ---
 
 # 코드
-'''
+<pre>
+<code>
 maze = [
     [0, 1, 0, 0, 0],
     [0, 0, 0, 1, 0],
@@ -44,6 +45,9 @@ for x in range(len(maze)):
     findroad(x,y)
 
 maze
+</code>
+</pre>
+
 '''
 ---
 #코드리뷰
